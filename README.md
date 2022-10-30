@@ -1,5 +1,5 @@
-- 👋 Hiter34 (Kirill Rogozin) on the spot
-- Python/C++ learner
+- 👋 Hiter34 on the spot
+- Python/C++/Java learner
 - idk lol... i'll append this file
 
 <!---
